@@ -10,8 +10,11 @@ g++ -o koch-fractal koch-fractal.cpp -lopengl32 -lglu32 -lfreeglut; ./koch-fract
 ## Examples
 ### Snowflake
 <!-- ![Koch Snowflake with 3 iterations](/snow-3-itr.png | width=100) -->
-<img src="/snow-3-itr.png " width="100" height="100">
-![Koch Snowflake with 300 iterations](/snow-300-itr.png | width=100)
+<!-- ![Koch Snowflake with 300 iterations](/snow-300-itr.png | width=100) -->
+<img src="/snow-3-itr.png " width="300" height="300">
+<img src="/snow-300-itr.png " width="300" height="300">
 ### Anti-Snowflake
-![Koch Anti-snowflake with 3 iterations](/anti-3-itr.png | width=100)
-![Koch Anti-snowflake with 300 iterations](/anti-300-itr.png | width=100)
+<!--- ![Koch Anti-snowflake with 3 iterations](/anti-3-itr.png | width=100) -->
+<!--- ![Koch Anti-snowflake with 300 iterations](/anti-300-itr.png | width=100) -->
+<img src="/anti-3-itr.png " width="300" height="300">
+<img src="/anti-3-itr.png " width="300" height="300">
